@@ -3,7 +3,7 @@
   "name": "fullcalendar-contrib",
   "workspaces": [
     "react",
-    "vue",
+    "vue" ,
     "vue3"
   ],
   "disabledWorkspaces": [
@@ -11,3 +11,4 @@
     "angular"
   ]
 }
+
